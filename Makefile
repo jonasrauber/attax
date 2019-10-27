@@ -8,7 +8,7 @@ flake8:
 	flake8
 
 mypy:
-	mypy
+	mypy .
 
 install:
 	pip3 install -e .
