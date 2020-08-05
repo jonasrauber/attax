@@ -1,3 +1,6 @@
+.. image:: https://zenodo.org/badge/217860895.svg
+   :target: https://zenodo.org/badge/latestdoi/217860895
+
 ====================================
 Attax: adversarial attacks using JAX
 ====================================
